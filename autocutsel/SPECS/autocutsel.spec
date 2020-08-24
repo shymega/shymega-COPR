@@ -20,7 +20,6 @@ synchronized.
 %prep
 %autosetup
 
-
 %build
 %configure
 %make_build
